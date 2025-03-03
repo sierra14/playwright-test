@@ -1,0 +1,15 @@
+{
+	"id": "39cc4fbf-3d25-4770-9281-ef752534c417",
+	"name": "tests_env",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://reqres.in/api",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-03-03T02:38:03.769Z",
+	"_postman_exported_using": "Postman/11.34.2"
+}
