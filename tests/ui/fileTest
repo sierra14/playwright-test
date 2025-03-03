@@ -1,0 +1,7 @@
+Scenario: Update the name of a pet
+
+Given we want to update the name of the pet called doggie
+When send the name updated of the pet and other fields of the request to the endpoint
+Then we get the response with the new name with the status code 200
+And the message OK
+
